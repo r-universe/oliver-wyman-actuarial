@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "easyr",
+    "oncran": true
+  }
+]
